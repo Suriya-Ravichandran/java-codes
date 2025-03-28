@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;interface5.mainclass.java&apos; to &apos;Mainclass.java&apos;&#x0D;&#x0A;- Original project: &apos;javaprogram&apos;&#x0D;&#x0A;- Original element: &apos;interface5.mainclass.java&apos;&#x0D;&#x0A;- Renamed element: &apos;interface5.Mainclass.java&apos;" description="Rename compilation unit &apos;mainclass.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;interface5{mainclass.java" name="Mainclass.java" references="false" stamp="1721974706342" version="1.0"/>
+</session>

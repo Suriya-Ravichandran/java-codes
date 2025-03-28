@@ -1,0 +1,12 @@
+127.0.0.1 - - [15/Jan/2025:14:42:12 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Jan/2025:14:42:13 +0530] "GET /First_webapplication/first HTTP/1.1" 200 127
+0:0:0:0:0:0:0:1 - - [15/Jan/2025:14:42:14 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [15/Jan/2025:14:47:01 +0530] "GET /First_webapplication/ HTTP/1.1" 200 316
+0:0:0:0:0:0:0:1 - - [15/Jan/2025:14:47:33 +0530] "GET /First_webapplication/first HTTP/1.1" 200 127
+127.0.0.1 - - [15/Jan/2025:15:37:05 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Jan/2025:15:37:06 +0530] "GET /Applicationform/view HTTP/1.1" 405 751
+0:0:0:0:0:0:0:1 - - [15/Jan/2025:15:37:12 +0530] "GET /Applicationform/ HTTP/1.1" 200 422
+0:0:0:0:0:0:0:1 - - [15/Jan/2025:15:38:02 +0530] "GET /Applicationform/ HTTP/1.1" 200 446
+0:0:0:0:0:0:0:1 - - [15/Jan/2025:15:38:04 +0530] "GET /Applicationform/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Jan/2025:15:38:15 +0530] "POST /Applicationform/view HTTP/1.1" 200 22
+0:0:0:0:0:0:0:1 - - [15/Jan/2025:15:38:35 +0530] "POST /Applicationform/view HTTP/1.1" 200 22
